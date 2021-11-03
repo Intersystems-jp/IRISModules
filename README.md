@@ -7,6 +7,8 @@
 ## Python
 [python/wheel](python/wheel) 以下に IRIS 2021.1 Preview版に含まれる whl ファイルを配置しています。
 
+2021年11月3日：IRIS2021.1に含まれるpyODBC用ファイルを追加しました。
+
 ## Node.js
 [node/intersystems-iris-native](node/intersystems-iris-native) 以下に irisnative モジュール用インストールファイルがプラットフォーム別、ディストリビューション別に用意されています。
 
